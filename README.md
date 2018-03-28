@@ -30,3 +30,5 @@ total INT(20) DEFAULT NULL
 6.	Membuat folder config yang berisi dao.php, dbconfig. Yang berfungsi untuk menghubungkan ke database yang telah kita buat tadi  dan menampilkan data yang telah kita buat melalui database.
 7.	Lebih jelasnya saya jelaskan di program
 ````sh
+##GambarAlert
+![ss]()

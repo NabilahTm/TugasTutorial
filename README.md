@@ -1,5 +1,5 @@
 # TugasTutorial
-##Tutorial
+## Tutorial
 ````sh
 Tutorial :
 1.	Siapkan Neatbeans, Xampp, dan SQLyog
@@ -30,5 +30,21 @@ total INT(20) DEFAULT NULL
 6.	Membuat folder config yang berisi dao.php, dbconfig. Yang berfungsi untuk menghubungkan ke database yang telah kita buat tadi  dan menampilkan data yang telah kita buat melalui database.
 7.	Lebih jelasnya saya jelaskan di program
 ````sh
-##GambarAlert
-![ss]()
+## GambarAlert
+![alert](https://github.com/NabilahTm/TugasTutorial/blob/master/g1%20aler.PNG)
+## GambarModal
+![modal](https://github.com/NabilahTm/TugasTutorial/blob/master/g2%20modal%20apabila%20user%26pasword%20belum%20lengkap.PNG)
+## BerhasilLogin
+![berhasillogin](https://github.com/NabilahTm/TugasTutorial/blob/master/g3%20tampilan%20berhasil%20login.PNG)
+## MenuHome
+![home](https://github.com/NabilahTm/TugasTutorial/blob/master/g4%20menu%20home.PNG)
+## MenuProfile
+![prifile](https://github.com/NabilahTm/TugasTutorial/blob/master/g5%20menu%20profile.PNG)
+## MenuJadwal
+![jadwal](https://github.com/NabilahTm/TugasTutorial/blob/master/g6%20menujadwal.PNG)
+## MenuAkademik
+![akademik](https://github.com/NabilahTm/TugasTutorial/blob/master/g7%20menu%20akademik.PNG)
+## MenuBlokir
+![blokir](https://github.com/NabilahTm/TugasTutorial/blob/master/g8%20blokir.PNG)
+## DataBase
+![database](https://github.com/NabilahTm/TugasTutorial/blob/master/g9%20db.PNG)

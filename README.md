@@ -29,7 +29,7 @@ total INT(20) DEFAULT NULL
 5.	Setelah itu kita buka NeatBeans. Disini saya membuat Index.php, login.php, tampilan.php, akademik.php, jdwlkuliah.php, profile.php
 6.	Membuat folder config yang berisi dao.php, dbconfig. Yang berfungsi untuk menghubungkan ke database yang telah kita buat tadi  dan menampilkan data yang telah kita buat melalui database.
 7.	Lebih jelasnya saya jelaskan di program
-````sh
+````
 ## GambarAlert
 ![alert](https://github.com/NabilahTm/TugasTutorial/blob/master/g1%20aler.PNG)
 ## GambarModal
